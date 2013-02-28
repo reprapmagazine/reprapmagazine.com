@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+<channel>
+  <title>RepRap Magazine</title>
+  <description>The online magazine for the RepRap community.</description>
+  <link>http://reprapmagazine.com</link>
+  <lastBuildDate>Thu, 28 Feb 2013 19:41:54 GMT</lastBuildDate>
+  <pubDate>Thu, 28 Feb 2013 19:41:54 GMT</pubDate>
+
+  <item>
+    <title>RepRap Magazine Issue 1</title>
+    <description>The very first issue of RepRap Magazine.  Interview with Adrian Bowyer, RepRap Slicers, Repetier 1: Communication, and much more.</description>
+    <link>http://reprapmagazine.com/issues/1</link>
+    <guid isPermaLink="true">http://reprapmagazine.com/issues/1</guid>
+    <pubDate>Thu, 28 Feb 2013 19:41:54 GMT</pubDate>
+  </item>
+  
+</channel>
+</rss>
