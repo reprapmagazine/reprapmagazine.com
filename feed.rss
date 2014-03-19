@@ -23,5 +23,13 @@
     <pubDate>Thu, 20 Jun 2013 18:18:18 GMT</pubDate>
   </item>
 
+  <item>
+    <title>RepRap Magazine Issue 3</title>
+    <description>The third issue of RepRap Magazine.  Interview with Nicholas Seward, Paste Extrusion, Hot-Ends, and much more.</description>
+    <link>http://reprapmagazine.com/issues/3</link>
+    <guid isPermaLink="true">http://reprapmagazine.com/issues/3</guid>
+    <pubDate>Wed, 19 Mar 2014 19:00:00 GMT</pubDate>
+  </item>
+
 </channel>
 </rss>
